@@ -1,0 +1,2 @@
+com/github/doka/fastfishing/FastFishingPlugin.java
+ com.github.doka.fastfishing.FastFishingPlugin
